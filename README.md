@@ -8,8 +8,8 @@ Previously, I was engaged in the development of landing pages on freelance, now 
 Now I know and can work with HTML, CSS, SCSS, as well as learning JavaScript. I plan to start learning React soon
 <br>
 <br>
-You can contact me: 
-mail: 1epova.aa@gmail.com
+You can contact me:<br> 
+mail: 1epova.aa@gmail.com<br>
 telegram: @fuyuko27
 
 
