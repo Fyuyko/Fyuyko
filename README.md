@@ -6,8 +6,11 @@ I am a beginner Frontend developer.
 Previously, I was engaged in the development of landing pages on freelance, now I want to develop and move on
 <br>
 Now I know and can work with HTML, CSS, SCSS, as well as learning JavaScript. I plan to start learning React soon
-
-
+<br>
+<br>
+You can contact me: 
+mail: 1epova.aa@gmail.com
+telegram: @fuyuko27
 
 
 
