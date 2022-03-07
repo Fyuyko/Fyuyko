@@ -10,10 +10,8 @@ Now I can work with HTML, CSS, SCSS, as well as learning JavaScript. Now I'm lea
 <br>
 ---
 You can contact me:<br> 
-[mail](1epova.aa@gmail.com "gmail") 
-![alt text](https://img2.freepng.ru/20171216/aea/gmail-logo-png-5a3553a6e082c3.6128108415134442629196.jpg "gmail") <br>
+[mail](1epova.aa@gmail.com "gmail") <br>
 [telegram](https://t.me/fuyuko27 "telegram")
-![alt text](https://img2.freepng.ru/20180329/xbq/kisspng-telegram-logo-computer-icons-telegram-5abd165f342e87.8859116215223414712138.jpg "telegram")
 
 
 
