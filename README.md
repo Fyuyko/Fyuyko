@@ -1,17 +1,13 @@
-# Hi, i'm @Fyuyko
-i'm 24 years old
-
-I am a beginner Frontend developer. 
+# Hi, i'm Anastasia
+I am a beginner Frontend developer. I've been studying layout and development in JavaScript for about a year
 <br>
-Previously, I was engaged in the development of landing pages on freelance, now I want to develop and move on
-<br>
-Now I can work with HTML, CSS, SCSS, as well as learning JavaScript. Now I'm learning React
-<br>
-<br>
+## Technical Stack
+* HTML, CSS, SCSS
+* JS, React/Redux (basics)
+* Webpack
+* Git, GitHub
 ---
-You can contact me:<br> 
-[mail](1epova.aa@gmail.com "gmail") <br>
-[telegram](https://t.me/fuyuko27 "telegram")
+You can contact me: [mail](1epova.aa@gmail.com "gmail"), [telegram](https://t.me/fuyuko27 "telegram")
 
 
 
