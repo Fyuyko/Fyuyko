@@ -3,7 +3,7 @@ I am a beginner Frontend developer. I've been studying layout and development in
 <br>
 ## Technical Stack
 * HTML, CSS, SCSS
-* JS, React/Redux (basics)
+* JS, React/Redux
 * Webpack
 * Git, GitHub
 ---
