@@ -1,5 +1,5 @@
 # Hi, i'm Anastasia
-I am a beginner Frontend developer. I've been studying layout and development in JavaScript for about a year
+I have been doing front-end development (study and work) for more than two years.
 <br>
 ## Technical Stack
 * HTML, CSS, SCSS
